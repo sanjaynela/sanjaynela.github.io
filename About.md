@@ -1,5 +1,7 @@
-layout: page
-title: "About Us"
-permalink: /about/
+---
+layout: default
+title: About
+---
+# About page
 
-HELLO! HOW ARE YOU!
+This page tells you a little bit about me.
